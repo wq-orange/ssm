@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="【学员操作】Spring依赖注入" />
+        <module name="【学员操作】使用p命名空间注入Bean" />
+        <module name="【学员操作】使用p命名空间注入直接量" />
+        <module name="【学员操作】使用构造注入" />
+        <module name="【学员操作】使用注解实现IoC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="【学员操作】Spring依赖注入" target="1.8" />
+      <module name="【学员操作】使用p命名空间注入Bean" target="1.8" />
+      <module name="【学员操作】使用p命名空间注入直接量" target="1.8" />
+      <module name="【学员操作】使用构造注入" target="1.8" />
+      <module name="【学员操作】使用注解实现IoC" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

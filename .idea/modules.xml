@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ssm.iml" filepath="$PROJECT_DIR$/.idea/ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【学员操作】Spring依赖注入/【学员操作】Spring依赖注入.iml" filepath="$PROJECT_DIR$/【学员操作】Spring依赖注入/【学员操作】Spring依赖注入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/【学员操作】使用p命名空间注入Bean.iml" filepath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/【学员操作】使用p命名空间注入Bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/【学员操作】使用p命名空间注入直接量.iml" filepath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/【学员操作】使用p命名空间注入直接量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【学员操作】使用构造注入/【学员操作】使用构造注入.iml" filepath="$PROJECT_DIR$/【学员操作】使用构造注入/【学员操作】使用构造注入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/【学员操作】使用注解实现IoC.iml" filepath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/【学员操作】使用注解实现IoC.iml" />
+    </modules>
+  </component>
+</project>
