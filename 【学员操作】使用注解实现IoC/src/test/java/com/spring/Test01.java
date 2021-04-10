@@ -14,7 +14,7 @@ public class Test01 {
     @Test
     public void test(){
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        UserService userservice = (UserService) context.getBean("userservice");
+        UserService userservice = (UserService) context.getBean("userService");
         User user = new User();
         user.setName("小球");
         user.setAge(18);

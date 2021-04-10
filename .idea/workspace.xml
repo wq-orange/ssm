@@ -5,83 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2701bb6-7c50-480f-a31e-85e645fdf68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_instrument_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_instrument_tomcat_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_portlet_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_14_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/src/main/java/com/spring/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/src/test/java/com/spring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】Spring依赖注入/【学员操作】Spring依赖注入.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/test/java/com/spring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/【学员操作】使用p命名空间注入Bean.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/src/main/java/com/spring/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/src/test/java/com/spring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/【学员操作】使用p命名空间注入直接量.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/src/main/java/com/spring/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/src/test/java/com/spring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用构造注入/【学员操作】使用构造注入.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/info.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/warn.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/test/java/com/spring/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/【学员操作】使用注解实现IoC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/log/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/【学员操作】使用注解实现IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/【学员操作】使用注解实现IoC/【学员操作】使用注解实现IoC.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/【学员操作】Spring依赖注入/target/" />
     <ignored path="$PROJECT_DIR$/【学员操作】使用p命名空间注入直接量/target/" />
@@ -96,11 +26,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/test/java/com/spring/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,6 +110,11 @@
         <option value="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/test/java/com/spring.java" />
         <option value="$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/test/java/com/spring/Test01.java" />
         <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/test/java/com/spring/Test01.java" />
+        <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/UserService.java" />
+        <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -165,7 +136,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -179,8 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +180,83 @@
               <item name="ssm" type="462c0819:PsiDirectoryNode" />
               <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="【学员操作】使用注解实现IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,19 +280,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617878583830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618038753772" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -372,14 +420,16 @@
       <updated>1617796153588</updated>
       <workItem from="1617796154923" duration="771000" />
       <workItem from="1617868061753" duration="432000" />
-      <workItem from="1617868548884" duration="7751000" />
+      <workItem from="1617868548884" duration="8438000" />
+      <workItem from="1617930188888" duration="806000" />
+      <workItem from="1617931334054" duration="656000" />
+      <workItem from="1617935798365" duration="248000" />
+      <workItem from="1617938707050" duration="106000" />
+      <workItem from="1618038334671" duration="274000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test01_test_(1) - 2021.04.08 at 16h 19m 11s.xml">
-      <configuration name="Test01.test (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test01_test_(1) - 2021.04.08 at 16h 21m 02s.xml">
       <configuration name="Test01.test (1)" configurationId="JUnit" />
     </history-entry>
@@ -407,15 +457,18 @@
     <history-entry file="Test01_test_(4) - 2021.04.08 at 18h 42m 22s.xml">
       <configuration name="Test01.test (4)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test01_test_(4) - 2021.04.09 at 09h 04m 16s.xml">
+      <configuration name="Test01.test (4)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8954000" />
+    <option name="totallyTimeSpent" value="11731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25737265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27412868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -622,9 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/test/java/com/spring.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/test/java/com/spring.java" />
     <entry file="file://$PROJECT_DIR$/【学员操作】使用p命名空间注入Bean/src/main/java/com/spring/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -662,9 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -685,7 +733,35 @@
     <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/test/java/com/spring/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/java/com/spring/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/【学员操作】使用注解实现IoC/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
